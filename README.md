@@ -44,7 +44,7 @@ You are required to submit the following for review:
 
 ## Submission 
 
-I removed all <div> tags and replaced with <section> or <article> tags. 
+I removed all div tags and replaced with section or article tags. 
 I cleaned up indentation and ensured all href and id we're working properly. The search-engine-optimization was not properly linked and is now working as intended. 
 In the CSS file I was removed all the duplicate code I saw and re-ordered the structure to better follow the flow of the html file. 
 I added HTML and CSS Comment tags to quickly find each individual section in case more work needs to be done. 
