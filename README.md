@@ -42,5 +42,12 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
 
+## Submission 
+
+I removed all <div> tags and replaced with <section> or <article> tags. 
+I cleaned up indentation and ensured all href and id we're working properly. The search-engine-optimization was not properly linked and is now working as intended. 
+In the CSS file I was removed all the duplicate code I saw and re-ordered the structure to better follow the flow of the html file. 
+I added HTML and CSS Comment tags to quickly find each individual section in case more work needs to be done. 
+
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
